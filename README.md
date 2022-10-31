@@ -4,8 +4,8 @@
 -    ◄ Data analyst / Business Inteligence
 -    ◄ web programming
 -  I’m currently learning Spring Boot
--  I’m looking for an internship PFE project
--  How to reach me Email : Abdelali.aazouz@gmail.com
+-  I’m looking for an internship for my PFE project
+-  How to reach me Email : Abdelali.aazouz@gmail.com or 0677059254
 
 <!---
 AbdelaliAzouz/AbdelaliAzouz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
